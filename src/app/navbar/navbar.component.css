@@ -1,0 +1,18 @@
+.dropdown-menu {
+    border-radius: 0;
+    box-shadow: none;
+  }
+  
+  .dropdown-menu > li > ul {
+    padding-left: 20px;
+  }
+  
+  .dropdown-menu a {
+    color: #212529;
+  }
+  
+  .dropdown-menu a:hover {
+    color: #fff;
+    background-color: #007bff;
+  }
+  
